@@ -44,7 +44,9 @@ $H_A$: The average number of pushups done by line players is statistically diffe
 ```{r}
 boxplot(pushups~position,data=mydata)
 ```
-
+  
+  It seems as though the median number of pushups the skill players can do is far more than the line of players.   The minimum for the skill players is almost as high as the maximum for the line players.  
+    
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
