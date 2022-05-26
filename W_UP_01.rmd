@@ -55,6 +55,7 @@ boxplot(pushups~position,data=mydata)
 favstats(pushups~position,data=mydata)
 ```
 
+The mean, max, and min, along with the quartiles for the skill players are all far higher than that of the line players. 
 
 ## Inferential Results
 
