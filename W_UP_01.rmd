@@ -68,9 +68,9 @@ t.test(pushups~position,data=mydata)
 The p-value for the test indicates that the chance of two sets of data being identical is nearly impossible,  
 showing that there is a true difference between skill and line players.     
 
-# Discussion and Conclusion
+# Discussion and Conclusion 
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-
+The data shows that there is a clear difference  between the average pushups of the line players and skill players.  
 
